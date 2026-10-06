@@ -1,0 +1,7 @@
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\bin\Debug\PR_9(1).exe.config
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\bin\Debug\PR_9(1).exe
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\bin\Debug\PR_9(1).pdb
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\obj\Debug\PR_9(1).csproj.AssemblyReference.cache
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\obj\Debug\PR_9(1).csproj.CoreCompileInputs.cache
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\obj\Debug\PR_9(1).exe
+C:\Users\kuzin\Desktop\Лис\PR_9(1)\obj\Debug\PR_9(1).pdb
